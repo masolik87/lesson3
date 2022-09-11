@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\bin\Debug\net6.0\palindrome.exe
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\bin\Debug\net6.0\palindrome.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\bin\Debug\net6.0\palindrome.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\bin\Debug\net6.0\palindrome.dll
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\bin\Debug\net6.0\palindrome.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\palindrome.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\palindrome.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\palindrome.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\palindrome.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\palindrome.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\palindrome.dll
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\refint\palindrome.dll
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\palindrome.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\palindrome.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\palindrome\obj\Debug\net6.0\ref\palindrome.dll
