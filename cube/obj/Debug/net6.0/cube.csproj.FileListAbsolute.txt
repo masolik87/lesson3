@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\bin\Debug\net6.0\cube.exe
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\bin\Debug\net6.0\cube.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\bin\Debug\net6.0\cube.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\bin\Debug\net6.0\cube.dll
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\bin\Debug\net6.0\cube.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\cube.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\cube.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\cube.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\cube.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\cube.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\cube.dll
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\refint\cube.dll
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\cube.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\cube.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\cube\obj\Debug\net6.0\ref\cube.dll
