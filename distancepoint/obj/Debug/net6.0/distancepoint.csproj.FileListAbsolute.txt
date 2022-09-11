@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\bin\Debug\net6.0\distancepoint.exe
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\bin\Debug\net6.0\distancepoint.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\bin\Debug\net6.0\distancepoint.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\bin\Debug\net6.0\distancepoint.dll
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\bin\Debug\net6.0\distancepoint.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\distancepoint.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\distancepoint.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\distancepoint.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\distancepoint.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\distancepoint.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\distancepoint.dll
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\refint\distancepoint.dll
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\distancepoint.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\distancepoint.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson3\distancepoint\obj\Debug\net6.0\ref\distancepoint.dll
